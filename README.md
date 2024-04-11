@@ -20,19 +20,7 @@ This project is organized as follows:
 - `notebooks/`: Jupyter notebooks with the EDA steps, including data preprocessing, analysis, and visualization.
 - `requirements.txt`: A list of Python packages required to run the notebooks.
 
-## Setup and Installation
-
-To get started with this project, please follow these steps:
-
-1. Clone this repository to your local machine using `git clone <repository-url>`.
-2. Ensure that Python 3.x is installed on your system.
-3. Install the required Python packages using the following command:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Navigate to the `notebooks/` directory and launch Jupyter Notebook or JupyterLab to open the EDA notebooks.
+Navigate to the `notebooks/` directory and launch Jupyter Notebook or JupyterLab to open the EDA notebooks.
 
 ## Key Analyses
 
