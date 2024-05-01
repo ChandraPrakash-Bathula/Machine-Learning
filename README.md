@@ -1,4 +1,4 @@
-# EDA Project : Haberman's Survival Dataset 
+# EDA Analysis : Haberman's Survival Dataset 
 
 Welcome to the GitHub repository for our exploratory data analysis (EDA) project on the Haberman's Survival Dataset. This project aims to provide comprehensive insights into the dataset through various statistical and visual analysis techniques, including Probability Density Functions (PDFs), Cumulative Distribution Functions (CDFs), violin plots, pair plots, and box plots. Our goal is to uncover patterns, trends, and relationships that can inform further research and predictive modeling on survival rates following breast cancer surgeries.
 
