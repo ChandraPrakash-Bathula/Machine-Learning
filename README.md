@@ -31,5 +31,6 @@ The notebooks within this project cover a range of analyses and visualizations, 
 - **Violin Plots**: Offers a deeper insight into the distribution of the data, combining aspects of box plots and density plots.
 - **Pair Plots**: Helps in understanding the pairwise relationship between all the features.
 - **Box Plots**: Used to visualize the distribution of the data through quartiles and to detect outliers.
+- **Histograms**: Used to depict the distribution of a dataset by showing the frequency of data points within specified ranges (bins), helping to highlight patterns, variations, and outliers in the data.
 
 Each of these techniques provides unique insights into the dataset and helps in understanding the factors that might influence the survival of breast cancer patients.
